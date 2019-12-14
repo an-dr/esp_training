@@ -1,0 +1,1 @@
+pwsh -NoExit -c "cd C:\esp\git\esp-idf\master\;Idf-Export"
